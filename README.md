@@ -1,0 +1,1 @@
+This is personal repo to store homework and notes to study italian. 
